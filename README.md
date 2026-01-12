@@ -66,7 +66,7 @@ Control your computer using hand gestures via your laptop webcam — no gloves, 
 
 - No depth cameras or external hardware required
 
-#### 👉 Repo: 
+#### 👉 Repo: https://github.com/Adithya0765/Gesture-Controled-Cursor-Tracker.git
 ---
 
 ## 🛠 Skills & Tools
