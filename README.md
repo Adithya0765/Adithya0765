@@ -4,7 +4,8 @@
 
 ---
 
-## 🚧 Featured Project: **Encrypted Traffic Visualizer**
+## 🚧 Featured Project:
+### 1. **Encrypted Traffic Visualizer**
 
 A SOC-style network telemetry tool that captures, classifies, and enriches encrypted flows — **without decrypting packets**.  
 Built to help understand how modern encrypted traffic behaves on real networks.
@@ -26,6 +27,46 @@ Built to help understand how modern encrypted traffic behaves on real networks.
 
 👉 **Repo:** https://github.com/Adithya0765/encrypted-traffic-visualizer
 
+### 2. Gesture-Controlled Mouse & System Navigation (Mediapipe + Python)
+
+Control your computer using hand gestures via your laptop webcam — no gloves, hardware, or depth sensors needed.
+
+#### Core Capabilities
+- Real-time hand tracking via MediaPipe
+
+- Mouse control via index finger tracking
+
+- Clicks & Drag
+
+   - Thumb + Index pinch → Left Click
+
+   - Thumb + Index hold → Drag & Drop
+
+  - Thumb + Index + Middle pinch → Right Click
+
+- Scroll & Navigation
+
+   - Two-finger scroll (Index + Middle up)
+
+   - Palm swipe gestures:
+
+   - → Next window (Alt+Tab)
+
+   - ← Previous window
+
+   - ↑ Task View
+
+   - ↓ Minimize Windows
+
+- Noise Filtering
+
+- Hybrid Kalman + EMA smoothing for cursor stability
+
+- Laptop Webcam Compatible
+
+- No depth cameras or external hardware required
+
+#### 👉 Repo: 
 ---
 
 ## 🛠 Skills & Tools
