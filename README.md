@@ -1,6 +1,6 @@
 # Hi, I'm Adithya 👋
 
-Cybersecurity & networking enthusiast exploring packet analysis, encrypted traffic behavior, and system-level development in Java and Linux.
+## Cybersecurity & networking enthusiast exploring packet analysis, encrypted traffic behavior, and system-level development in Java and Linux.
 
 ---
 
