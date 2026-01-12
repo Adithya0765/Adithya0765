@@ -18,7 +18,7 @@ Transforms live audio into reactive frequency visuals.
 Ideal for experimenting with DSP & real-time feedback systems.
 
 **Tech Stack:** Python (PyAudio, NumPy, Matplotlib)  
-🔗 Repo: https://github.com/Adithya0765/enhanced-packet-visualizer
+🔗 Repo: https://github.com/Adithya0765/encrypted-traffic-visualizer.git
 
 ---
 
@@ -29,16 +29,6 @@ Ideal for experimenting with DSP & real-time feedback systems.
 > systems : Linux
 
 > misc : Git, VS Code
-
-
----
-
-### 🔹 System Diagnostics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adithya0765&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya0765&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
 
 ---
 
